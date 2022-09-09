@@ -12,7 +12,7 @@ plt.plot(x, y2, color='red', linewidth=1.0, linestyle='--')
 plt.xlim(-1, 2)
 plt.ylim(-2, 3)
 
-plt.xlabel('I am x坐标')
+plt.xlabel('I am x')
 plt.ylabel('I am y')
 
 new_ticks = np.linspace(-1, 2, 5)
